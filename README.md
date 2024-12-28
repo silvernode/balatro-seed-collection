@@ -10,4 +10,4 @@
 | [7GHI6S19](https://mathisfun0.github.io/The-Soul/?seed=7GHI6S19) | Rare Joker Skips | Good/Great | No |
 | [I6I82YEY](https://mathisfun0.github.io/The-Soul/?seed=I6I82YEY) | Holographic Skips | Good/Great | No |
 | [W14ZJRLY](https://mathisfun0.github.io/The-Soul/?seed=W14ZJRLY) | Well Rounded | Great | Yes |
-| [](https://mathisfun0.github.io/The-Soul/?seed=H6LV21FJ) | Full of Treats | Double epic | Yes
+| [H6LV21FJ](https://mathisfun0.github.io/The-Soul/?seed=H6LV21FJ) | Full of Treats | Double epic | Yes
