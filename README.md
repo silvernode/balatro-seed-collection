@@ -11,3 +11,4 @@
 | [I6I82YEY](https://mathisfun0.github.io/The-Soul/?seed=I6I82YEY) | Holographic Skips | Good/Great | No |
 | [W14ZJRLY](https://mathisfun0.github.io/The-Soul/?seed=W14ZJRLY) | Well Rounded | Great | Yes |
 | [H6LV21FJ](https://mathisfun0.github.io/The-Soul/?seed=H6LV21FJ) | Full of Treats | Double epic | Yes
+| [7VIIZYCB](https://mathisfun0.github.io/The-Soul/?seed=7VIIZYCB) | Blueprint on Ante 3 | Decent | Yes |
