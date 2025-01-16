@@ -13,3 +13,5 @@
 | [H6LV21FJ](https://mathisfun0.github.io/The-Soul/?seed=H6LV21FJ) | Full of Treats | Double epic | Yes
 | [7VIIZYCB](https://mathisfun0.github.io/The-Soul/?seed=7VIIZYCB) | Blueprint on Ante 3 | Decent | Yes |
 | [8S8B41M9](https://mathisfun0.github.io/The-Soul/?seed=8S8B41M9) | Blueprint on Rare skip | Good | Yes |
+| [Y4HZXW9M](https://mathisfun0.github.io/The-Soul/?seed=Y4HZXW9M) | Lots of full house hands | Good | Yes |
+
