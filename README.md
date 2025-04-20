@@ -14,4 +14,6 @@
 | [7VIIZYCB](https://mathisfun0.github.io/The-Soul/?seed=7VIIZYCB) | Blueprint on Ante 3 | Decent | Yes |
 | [8S8B41M9](https://mathisfun0.github.io/The-Soul/?seed=8S8B41M9) | Blueprint on Rare skip | Good | Yes |
 | [Y4HZXW9M](https://mathisfun0.github.io/The-Soul/?seed=Y4HZXW9M) | Lots of full house hands | Good | Yes |
+| [3PWLZDW3](https://mathisfun0.github.io/The-Soul/?seed=3PWLZDW3) | A lot of good cards on all fronts | great | Yes
+| [GJPRW6WR](https://mathisfun0.github.io/The-Soul/?seed=GJPRW6WR) | Lucky run with +1 hand | great | Yes
 
